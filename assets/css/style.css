@@ -70,6 +70,38 @@ a:hover {
   color: #ffffff;
   text-decoration: none;
 }
+.section-services .title-wrap {
+  padding: 0px;
+}
+
+.homme-sec-kerala {
+  padding-top: 40px !important;
+}
+
+section.section-services .container {
+  background: #2eca6a;
+  padding: 30px;
+  box-shadow: 0px 0px 20px 0px #ccc;
+  border-radius: 15px;
+  color: #fff;
+}
+
+section.section-services {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+}
+
+section.section-services .container h2.title-a {
+  color: #fff;
+}
+.swiper-slide {
+  height: 550px;
+}
+
+.swiper-backface-hidden .swiper-slide .card-shadow {
+  height: 100%;
+}
+
 
 @media (min-width: 768px) {
   .link-a {
